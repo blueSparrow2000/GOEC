@@ -26,18 +26,18 @@ This is a terminal-game.
 
 
 1. Download \* & unzip file(if you used 'tag' for downloading) in your interpreter. (If you use pyCharm, then put the file in PycharmProjects folder)
-2. Go to interpreter -> open the project (the-game-of-escaping-cave-STABLE-VERSION) -> run game.py **
+2. Go to interpreter -> open the project (GOEC) -> run game.py **
 
 \* Download the code by using 'git bash'! 
-
-
-** If 'Invalid Python interpreter selected ...' message comes out, add a new one! (Any version greater or equal to 3.7 is ok)
 
 
 **Example of using git bash command (Using Pycharm IDE)**
 
 
 ![interface](../main/images/commands.png)
+
+
+** If 'Invalid Python interpreter selected ...' message comes out, click on 'Configure Python interpreter'! Any interpreter of Python version greater or equal to 3.7 is ok. 
 
 
 ## Interface
