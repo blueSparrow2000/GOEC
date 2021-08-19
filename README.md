@@ -94,7 +94,7 @@ If 'Invalid Python interpreter selected ...' message comes out, add one! (Any ve
         There is a small amount of gold in the Room of Gold Coins.
         A monster is hiding in the Room of Monsters and will attack you. This is when you get into attack mode.
         NOTE: Monsters do not respawn once killed. (In reality, the dead can't come back to life, right?)
-        The Item Room gives pla불필요한 살생을 줄이는 것도 능력이다.yers free items.
+        The Item Room gives players free items.
         Locked rooms are locked. Find the key in a Key Room (a type of Room of Items) and get the key, or kill the monster holding the key.
         NOTE: You must have the correct key for the locked room to open it.
 
