@@ -16,7 +16,7 @@ Develope period: 2021.8.13 ~ 2021.8.19
 ## How to Run
 
 
-This is an interpreter game.
+This is a terminal-game.
 
 
 1. Download \* & unzip file(if you used 'tag' for downloading) in your interpreter. (If you use pyCharm, then put the file in PycharmProjects folder)
