@@ -105,8 +105,8 @@ This is an interpreter game.
         Finally, the tiles. 
         In this game, events occur as the player moves through tiles.
         The unit of a cell on the minimap is a tile(room).
-        The tiles you haven't been to is considered unknown and is not shown to player, except three gamemodes; Easy, Normal, Hard.
-        In Easy mode, all tiles are visible from the beggining.
+        The tiles you haven't been to is considered unknown and is not shown to player, except in these three gamemodes; Easy, Normal, Hard.
+        In Easy mode, all the tiles are visible from the beggining.
         In Normal or Hard mode, you can preview your top, bottom, left, and right tiles even if you haven't been there.
 
         Common tiles include 'EmptyCavePath', 'Room of Gold Coins', 'Room of Monsters', 'Room of Items', and 'Locked Room'.
@@ -132,9 +132,11 @@ This is an interpreter game.
         Remember, reducing unnecessary kills is also a pro's quality!
         You can see the leader board if you want when the game ends.
         
-        ==== Closing remarks [ ♪ ] =====        
-        This is my little present. 
-        Check it in your inventory by typing 'i'. 
+        ==== Closing remarks [ ♪ ] =====   
+        It doesn't matter if you don't remember all of this. You know, you learn by playing :)
+        
+        There is a little present for you. 
+        Please check it in your inventory by typing 'i'. 
         Good luck!
 
         Below is a minimap.
