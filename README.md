@@ -1,4 +1,4 @@
-# GOEC
+# GOEC ☨
 The Game of Escaping Cave (GOEC) STABLE-VERSION  is now released!
 
 
@@ -17,7 +17,7 @@ Basic template is created with above link.
 All other classes/functions/texts are developed by myself.
 
 
-Develope period: 2021.8.13 ~ 2021.8.19
+Development period: 2021.8.13 ~ 2021.8.19
 
 ## How to Run
 
@@ -154,7 +154,7 @@ This is a terminal-game.
         Below is a minimap.
 
 
-## A brief description of each file
+## A brief description of each files
 
 
 - #### actions.py
