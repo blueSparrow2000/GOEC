@@ -5,9 +5,6 @@ The Game of Escaping Cave (GOEC) STABLE-VERSION  is now released!
 Solo cave escape adventure.
 
 
-The goal of this game is, of course, to escape the cave!
-
-
 This game is created based on https://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python-part-1-items-and-enemies/
 
 
@@ -58,6 +55,11 @@ This is a terminal-game.
 
 ![interface](../main/images/capture1.png)
 
+
+## Features
+* Trading - trade gold for items & Sell items
+* Unique story - short, but exclusive story written by me :) Not completed yet!
+* Minimap - minimap contains carefully selected icons! 
 
 
 ## Quick preview of tutorial (in game)
@@ -133,20 +135,20 @@ This is a terminal-game.
         ==== Score calculation [ - ] ===
         At the end of the game, you will recieve your score, which will be recorded on the leader board (simple txt file).
         Current version's score calculation is done as follows: (all rounded up to first digit each step)
-        
+
         score = initial_setting_score + title_score
-        
+
         initial_setting_score = map_score * gamemode_score * (0.9)^(handicap)
-        
+
         title_score = (# of earned titles) - 2 * (# of earned 'killer' titles) 
-        
+
         NOTE: 'killer' title is earned when you have certain amount of certain mob drops in your inventory. 
         Remember, reducing unnecessary kills is also a pro's quality!
         You can see the leader board if you want when the game ends.
-        
+
         ==== Closing remarks [ ♪ ] =====   
         It doesn't matter if you don't remember all of this. You know, you learn by playing :)
-        
+
         There is a little present for you. 
         Please check it in your inventory by typing 'i'. 
         Good luck!
