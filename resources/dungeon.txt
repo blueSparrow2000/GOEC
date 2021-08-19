@@ -1,0 +1,23 @@
+																	SlateRoom	EmptyCavePath	EmptyCavePath	FindKeyRoom0000	WandererRoom	
+WandererRoom	EmptyCavePath	EmptyCavePath	FindKeyRoom0002	BanditRoom													EmptyCavePath		EmptyCavePath		EmptyCavePath	
+EmptyCavePath				EmptyCavePath													BanditRoom		GandalphRoom		EmptyCavePath	
+EmptyCavePath	EmptyCavePath	RetiredMageRoom		EmptyCavePath	GuardRoomLocked0001	EmptyCavePath	EmptyCavePath	EmptyCavePath	EmptyCavePath	EmptyCavePath	ScorpionRoom						EmptyCavePath				EmptyCavePath	
+FindWandRoom				EmptyCavePath							EmptyCavePath						EmptyCavePath	EmptyCavePath	EmptyCavePath	EmptyCavePath	EmptyCavePath	
+ScorpionRoom	ScorpionRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath							EmptyCavePath								GuardRoomLocked9999			
+						EmptyCavePath	GoldRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath	GuardRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath	GoldRoom	EmptyCavePath			EmptyCavePath			
+						ScorpionRoom					EmptyCavePath					EmptyCavePath			EmptyCavePath			
+						EmptyCavePath					EmptyCavePath					EmptyCavePath			EmptyCavePath			
+						EmptyCavePath			GoldRoom	GoldRoom	GoldRoomLocked0003	GoldRoom	GoldRoom			EmptyCavePath			EmptyCavePath			
+						EmptyCavePath			GoldRoom		GuardRoomLocked9999		GoldRoom			EmptyCavePath			EmptyCavePath			
+			EmptyCavePath	EmptyCavePath	EmptyCavePath	GuardRoom	EmptyCavePath	EmptyCavePath	GoldRoomLocked0003	GuardRoomLocked9999	LeaveCaveRoomLocked0000	GuardRoomLocked9999	GoldRoomLocked0003	EmptyCavePath	EmptyCavePath	GuardRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath			
+			EmptyCavePath			EmptyCavePath			GoldRoom		GuardRoomLocked9999		GoldRoom			EmptyCavePath						
+			ScorpionRoom			ScorpionRoom			GoldRoom	GoldRoom	GoldRoomLocked0003	GoldRoom	GoldRoom			EmptyCavePath						
+			EmptyCavePath			EmptyCavePath					EmptyCavePath					EmptyCavePath						
+			EmptyCavePath			EmptyCavePath					EmptyCavePath					EmptyCavePath						
+			EmptyCavePath			EmptyCavePath	GoldRoom	ScorpionRoom	EmptyCavePath	EmptyCavePath	GuardRoom	EmptyCavePath	GoldRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath						
+			GuardRoom								EmptyCavePath							EmptyCavePath	EmptyCavePath	FindKeyRoom0003	EmptyCavePath	EmptyCavePath
+	EmptyCavePath	EmptyCavePath	EmptyCavePath	EmptyCavePath	FindKeyRoom0001						EmptyCavePath							EmptyCavePath				EmptyCavePath
+	EmptyCavePath				EmptyCavePath						EmptyCavePath	EmptyCavePath	ScorpionRoom	EmptyCavePath	ScorpionRoom	EmptyCavePath	GuardRoomLocked0002	EmptyCavePath		HarryPotterRoom	EmptyCavePathLocked0003	EmptyCavePath
+	BanditRoom		FindRabbitFootRoom		EmptyCavePath													EmptyCavePath				EmptyCavePath
+	EmptyCavePath		EmptyCavePathLocked0000		EmptyCavePath													WandererRoom	EmptyCavePath	BanditRoom	EmptyCavePath	SlateRoom
+	StartingRoom	EmptyCavePath	FindDaggerRoom	EmptyCavePath	MerchantRoom																	

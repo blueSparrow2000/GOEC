@@ -1,0 +1,12 @@
+GoldRoom	StartingRoom	FindKeyRoom0000
+FindDaggerRoom	EmptyCavePath	GoldRoomLocked0000
+FindWandRoom	EmptyCavePath	ScorpionRoom
+FindStaffRoom	EmptyCavePath	BanditRoom
+FindRabbitFootRoom	EmptyCavePath	SlateRoom
+WandererRoom	EmptyCavePath	
+MerchantRoom	EmptyCavePath	RetiredMageRoom
+GuardRoom	EmptyCavePath	GandalphRoom
+	EmptyCavePath	HarryPotterRoom
+	EmptyCavePath	
+JumpRoomCode0000	EmptyCavePath	JumpedRoomCode0000
+MemoryRoom	EmptyCavePath	LeaveCaveRoom

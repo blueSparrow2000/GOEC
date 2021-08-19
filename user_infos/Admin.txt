@@ -1,0 +1,5 @@
+Logged in date: 2021-08-19-16:55:19
+Play result: < Victory! > 
+[mode: God] [map: room_tester] [handicap: 0] [earned titles: ]
+Total score: 0.0
+

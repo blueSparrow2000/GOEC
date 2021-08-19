@@ -1,0 +1,23 @@
+						LeaveCaveRoom						
+						EmptyCavePathLocked0000						
+						MemoryRoom						
+				FindKeyRoom0005	EmptyCavePathLocked0004	GuardRoom	EmptyCavePathLocked0002	FindKeyRoom0003				
+						EmptyCavePath						
+						EmptyCavePath						
+						EmptyCavePath						
+		FindKeyRoom0002	FindStaffRoom	RetiredMageRoom	EmptyCavePathLocked0001	GuardRoom	EmptyCavePathLocked0003	GandalphRoom	EmptyCavePath	FindKeyRoom0004		
+						EmptyCavePath						
+						JumpedRoomCode0000						
+						JumpRoomCode0001				JumpRoomCode0000		
+										EmptyCavePathLocked9999		
+										GuardRoom		
+										RetiredMageRoom		
+						JumpedRoomCode0001				RetiredMageRoom		
+						MemoryRoom				RetiredMageRoom		
+						BanditRoom			WandererRoom	ScorpionRoom	EmptyCavePath	
+	FindKeyRoom0001	ScorpionRoom	GoldRoom			GoldRoom			EmptyCavePath		GoldRoom	
+			GoldRoom			GoldRoom			EmptyCavePath	ScorpionRoom	EmptyCavePath	
+HarryPotterRoom		EmptyCavePath	EmptyCavePath			GoldRoom		MerchantRoom		EmptyCavePath		FindKeyRoom0000
+EmptyCavePath		FindDaggerRoom		FindRabbitFootRoom		GoldRoom		GoldRoom		EmptyCavePath		RetiredMageRoom
+FindWandRoom		BanditRoom		EmptyCavePath		GoldRoom		BanditRoom		FindDaggerRoom		EmptyCavePathLocked0005
+RetiredMageRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath	ScorpionRoom	EmptyCavePath	StartingRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath	ScorpionRoom	EmptyCavePath	WandererRoom
