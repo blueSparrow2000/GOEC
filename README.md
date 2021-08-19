@@ -1,5 +1,8 @@
-# Text_based_game
+# the-game-of-escaping-cave-STABLE-VERSION
 My first working text based adventure! 
+
+
+The goal of this game is, of course, to escape the cave!
 
 
 This game is created based on https://letstalkdata.com/2014/08/how-to-write-a-text-adventure-in-python-part-1-items-and-enemies/
