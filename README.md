@@ -1,4 +1,7 @@
-# the-game-of-escaping-cave-STABLE-VERSION
+# GOEC
+The Game of Escaping Cave STABLE-VERSION is now released!
+
+
 My first working text based adventure! 
 
 
