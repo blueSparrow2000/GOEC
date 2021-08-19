@@ -34,6 +34,12 @@ This is a terminal-game.
 ** If 'Invalid Python interpreter selected ...' message comes out, add a new one! (Any version above 3.7 is ok)
 
 
+**Example of using git bash command**
+
+
+![interface](../main/images/commands.png)
+
+
 ## Interface
 * __Minimap__
 
