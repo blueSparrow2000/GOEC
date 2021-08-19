@@ -26,7 +26,23 @@ If 'Invalid Python interpreter selected ...' message comes out, add one! (Any ve
 
 
 ## Interface
+* __Minimap__
+
+
 ![interface](../main/images/interface.png)
+
+
+* __Attack__ 
+
+
+![interface](../main/images/attack_capture1.png)
+
+
+* __View mobs__
+
+
+![interface](../main/images/capture1.png)
+
 
 
 ## Quick preview of tutorial (in game)
