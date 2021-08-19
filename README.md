@@ -70,11 +70,12 @@ This is an interpreter game.
         [ ☼ ] : Your starting position
         [ ⚐ ] : Exit!
 
-        The mini-map is only an auxiliary function to help you explore, reading text is more important since this is a text-based-game :)
+        The mini-map is only an auxiliary function to help you explore. 
+        Reading text is more important since this is a text-based-game :) Like reading novels? 
         (Do not rely on a minimap!)
 
         ==== Status (Stat) [ 'vs' ] ====
-        In this game, there are statuses that enhance the player's ability.
+        In this game, there are statuses that enhance the player's abilities.
         As player level up, (s)he chooses which one of the statuses will be increased by 1.
         Once chosen, it cannot be reversed so please choose carefully.
         The higher the level, the greater the amount of experience required to level up (∝log).
@@ -97,21 +98,21 @@ This is an interpreter game.
         If you move to a tile with a monster, the monster will appear.
         ['z': attack] is created in the selection option. 
         After entering 'z', the user can select the desired weapon from the following selection list, which will attack automatically with that weapon.
-        Alternatively, if you want to attack using the weapon you used just before, select ['p': Attack with previous option].
+        Alternatively, if you want to attack using the weapon you used just before, select ['x': Attack with previous option].
         Weapon and it's information can be viewed at any time (except during combat) through inventory (type 'i').
 
         ======= Tile(Room) [   ] =========
         Finally, the tiles. 
-        In this game, events occur as the player moves tiles.
+        In this game, events occur as the player moves through tiles.
         The unit of a cell on the minimap is a tile(room).
-        Tiles you haven't been to is considered unknown and is not shown to player, except two gamemodes; Easy, Normal, Hard.
+        The tiles you haven't been to is considered unknown and is not shown to player, except three gamemodes; Easy, Normal, Hard.
         In Easy mode, all tiles are visible from the beggining.
         In Normal or Hard mode, you can preview your top, bottom, left, and right tiles even if you haven't been there.
 
         Common tiles include 'EmptyCavePath', 'Room of Gold Coins', 'Room of Monsters', 'Room of Items', and 'Locked Room'.
-        You can hear his monologue on the EmptyCavePath.
+        You can hear your monologue on the EmptyCavePath. :D
         There is a small amount of gold in the Room of Gold Coins.
-        A monster is hiding in the Room of Monsters and will attack you. This is when you get into attack mode.
+        A monster is hiding in the Room of Monsters and will attack you. This is when you get into the attack mode.
         NOTE: Monsters do not respawn once killed. (In reality, the dead can't come back to life, right?)
         The Item Room gives players free items.
         Locked rooms are locked. Find the key in a Key Room (a type of Room of Items) and get the key, or kill the monster holding the key.
