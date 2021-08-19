@@ -1,8 +1,8 @@
 # GOEC
-The Game of Escaping Cave STABLE-VERSION is now released!
+The Game of Escaping Cave (GOEC) STABLE-VERSION  is now released!
 
 
-My first working text based adventure! 
+Solo cave escape adventure.
 
 
 The goal of this game is, of course, to escape the cave!
@@ -152,6 +152,55 @@ This is a terminal-game.
         Good luck!
 
         Below is a minimap.
+
+
+## A brief description of each file
+
+
+- #### actions.py
+  - Stores player's actions
+
+- #### enemies.py
+  - Enemy's infomation and skills are stored here.
+
+- #### game.py
+  - This is where the game starts and runs.
+
+- #### initial_setting.py
+  - 'Setting' class fetches initial settings like map, mode, handicap (initial level) from user input on the terminal.
+
+- #### items.py
+  - Item's informations and effects are stored here.
+
+- #### login.py
+  - Login module for handling user accounts and leader board.
+
+- #### npcs.py
+  - NPC's are stored here. NPC inherits Enemy, that means they can harm you!
+
+- #### player.py
+  - All the player's activities are stored as methods here.
+
+- #### statuses.py
+  - Status informations are stored here.
+
+- #### story_info.py
+  - Story script and story-telling Storybot is stored here.
+
+- #### test.py
+  - Just for testing simple codes.
+
+- #### title.py
+  - Stores titles that player can achieve during the game.
+
+- #### tutorial.py
+  - Tutorial script is stored here.
+
+- #### util.py
+  - Utility functions are stored here.
+
+- #### world.py
+  - World is generated here. World files can be modified in folder 'resources'.
 
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
