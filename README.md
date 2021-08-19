@@ -22,6 +22,8 @@ This is an interpreter game.
 1. Download & unzip file in your interpreter. (If you use pyCharm, then put the file in PycharmProjects folder)
 2. Go to interpreter -> open the project (text_adventure) -> run game.py
 
+If 'Invalid Python interpreter selected ...' message comes out, add one! (Any version above 3.7 is ok)
+
 
 ## Interface
 ![interface](../main/images/interface.png)
