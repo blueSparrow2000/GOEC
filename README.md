@@ -37,7 +37,7 @@ This is a terminal-game.
 ![interface](../main/images/commands.png)
 
 
-** If 'Invalid Python interpreter selected ...' message comes out, click on 'Configure Python interpreter'! Any interpreter of Python version greater or equal to 3.7 is ok. 
+** If 'Invalid Python interpreter selected ...' message comes out, click on 'Configure Python interpreter' and add one! Any interpreter of Python version greater or equal to 3.7 is ok. 
 
 
 ## Interface
