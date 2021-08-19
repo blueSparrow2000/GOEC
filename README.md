@@ -129,4 +129,4 @@ Copyright (c) 2021-present, blueSparrow2000
 Sorry to those who cloned earlier version.
 I messed up with my github and some codes were not updated.
 The codes probably didn't run...
-Now that I have resetted everything, It should be OK!
+Now that I have resetted everything, It should be good to go!
