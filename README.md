@@ -20,7 +20,7 @@ This is an interpreter game.
 
 
 1. Download \* & unzip file in your interpreter. (If you use pyCharm, then put the file in PycharmProjects folder)
-2. Go to interpreter -> open the project (text_adventure) -> run game.py **
+2. Go to interpreter -> open the project (the-game-of-escaping-cave-STABLE-VERSION) -> run game.py **
 
 \* Download the code by using 'git bash'! 
 
