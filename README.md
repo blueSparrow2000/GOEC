@@ -19,7 +19,7 @@ Develope period: 2021.8.13 ~ 2021.8.19
 This is an interpreter game.
 
 
-1. Download \* & unzip file in your interpreter. (If you use pyCharm, then put the file in PycharmProjects folder)
+1. Download \* & unzip file(if you used 'tag' for downloading) in your interpreter. (If you use pyCharm, then put the file in PycharmProjects folder)
 2. Go to interpreter -> open the project (the-game-of-escaping-cave-STABLE-VERSION) -> run game.py **
 
 \* Download the code by using 'git bash'! 
