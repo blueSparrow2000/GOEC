@@ -25,7 +25,7 @@ This is an interpreter game.
 \* Download the code by using 'git bash'! 
 
 
-** If 'Invalid Python interpreter selected ...' message comes out, add one! (Any version above 3.7 is ok)
+** If 'Invalid Python interpreter selected ...' message comes out, add a new one! (Any version above 3.7 is ok)
 
 
 ## Interface
