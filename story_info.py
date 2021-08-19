@@ -281,6 +281,8 @@ scripts = {'Korean': '''[시작의 방에 처음으로 돌아왔을 때]
 
 - True ending
 
+(To be continued...)
+
 /[Bad end: progress 수치가 충분히 오르지 않은 상태에서 동굴에서 탈출]
 후후... 탈출이다! 
 이제 나를 막는건 아무것도 없어!!!
@@ -366,7 +368,7 @@ Please...
 
 - True ending
 
-(Next story - going to more 'advanced' prison, and loses memory once again - comming soon!)
+(To be continued...) 
 
 /[Bad end: Escape from the cave without progressing enough]
 Whoa... Escape!
